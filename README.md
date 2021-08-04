@@ -260,13 +260,13 @@
 
   - (49151-65535) open port.
     
-  **Web port:**
+  **Web ports :**
      
   - 80 (Http) for normal user.
 
   - 443 (Https) for secure web server.
 
-  **Web server:**
+  **Http verbs :**
 
   - Get
 
@@ -280,7 +280,7 @@
       
   - Head
    
- **Http ports:**
+ **Status code :**
 
  - 100 
  - 200
