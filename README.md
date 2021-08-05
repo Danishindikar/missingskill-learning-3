@@ -385,48 +385,48 @@
  **Examples :**
 
 1.  
-   ```var a = 10;```
+        var a = 10;
 
-   ```var a = 5;```
+        var a = 5;
 
-   ```var b = "ok;"```
+        var b = "ok;"
 
-   `console.log(1,a+b);`
+        console.log(1,a+b);
 
-   `a = 20`
+        a = 20
 
-   `function hello(){`
+        function hello(){
 
-   `var a = "7";`
+        var a = "7";
 
-   `console.log(2,a+a);`
+        console.log(2,a+a);
 
-   `a = 3;` 
+        a = 3; 
 
-   `}`
+        }
 
-   `function hello2(){`
+        function hello2(){
 
-   `a = a + a;`
+        a = a + a;
 
-   `console.log(2.1,a);`
+        console.log(2.1,a);
 
-   `var c;`
+        var c;
 
-   `hello2();`
+        hello2();
 
-   `hello();`
+        hello();
 
-   `console.log(4,a);`
+        console.log(4,a);
 
-   `}`
+          }
 
-### O/P :
-          1. 5ok
-          2.1 40
-          2 77
-          3 40
-          4 10
+        ### O/P :
+             1. 5ok
+             2.1 40
+             2 77
+             3 40
+             4 10
 
 2. 
  
